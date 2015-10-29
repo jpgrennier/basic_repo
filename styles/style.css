@@ -2,3 +2,23 @@
 	margin: 0;
 	padding: 0;
 }
+
+#wrapper{
+	width: 960px;
+	margin: 0 auto;
+	background-color: #044455;
+}
+
+h1{
+	color: #b6506d;
+	text-align: center;
+	padding-top: 15px;
+	-webkit-text-stroke: .011em white;
+	font-family: impact, helvetica, sans-serif;
+	text-transform: uppercase; 
+}
+
+img{
+	margin: 15px 0 15px 236px;
+	outline: 1px solid white;
+}
